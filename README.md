@@ -5,11 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Clone websites**
-
-- 🌱 I’m currently learning **Javascript**
-
-- 💬 Ask me about **HTML, JS, Java, Python**
 
 - 📫 How to reach me **jupallyyashwanth376@gmail.com**
 
