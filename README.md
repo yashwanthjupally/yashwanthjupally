@@ -1,29 +1,58 @@
 # Hi there, I'm Yashwanth 👋
 
-## About Me
-I am a passionate self-taught software engineer and a problem solver. I love to create and build innovative solutions.
-
 ## Skills
-- **Languages**: Java, HTML, CSS, JavaScript, Python
-- **Databases**: MySQL
-- **Tools**:  VSCode, IntelliJ IDEA, Git, GitHub
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-## Contact Me
-- **LinkedIn**: [Your LinkedIn](link-to-linkedin)
-- **Email**: [Your Email](mailto:youremail@example.com)
+<div style="text-align: center; margin: 10px;">
+    <img src="java.png" alt="Java" width="50" height="50">
+    <p>Java</p>
+</div>
+
+<div style="text-align: center; margin: 10px;">
+    <img src="html.png" alt="HTML" width="50" height="50">
+    <p>HTML</p>
+</div>
+
+<div style="text-align: center; margin: 10px;">
+    <img src="css.png" alt="CSS" width="50" height="50">
+    <p>CSS</p>
+</div>
+
+<div style="text-align: center; margin: 10px;">
+    <img src="js.png" alt="JavaScript" width="50" height="50">
+    <p>JavaScript</p>
+</div>
+
+<div style="text-align: center; margin: 10px;">
+    <img src="python.png" alt="Python" width="50" height="50">
+    <p>Python</p>
+</div>
+
+<div style="text-align: center; margin: 10px;">
+    <img src="spring.png" alt="Spring Boot" width="50" height="50">
+    <p>Spring Boot</p>
+</div>
+
+<div style="text-align: center; margin: 10px;">
+    <img src="sql.png" alt="MySQL" width="50" height="50">
+    <p>MySQL</p>
+</div>
+
+</div>
+
+## GitHub Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Stars](https://img.shields.io/github/stars/yourusername?style=social)
 
 ![Yashwanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
+## Contact Me
+- **LinkedIn**: [Your LinkedIn]([link-to-linkedin](https://www.linkedin.com/in/yashwanthjupally/))
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 
 
