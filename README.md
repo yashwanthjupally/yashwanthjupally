@@ -1,45 +1,38 @@
-# Hi there, I'm Yashwanth 👋
+<h1 align="center">Hi 👋, I'm Yashwanth Jupally</h1>
+<h3 align="center">A passionate Self learning Software Engineer from India</h3>
 
-## Skills
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashwanthjupally&label=Profile%20views&color=0e75b6&style=flat" alt="yashwanthjupally" /> </p>
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<div style="text-align: center; margin: 10px;">
-    <img src="java.png" alt="Java" width="50" height="50">
-    <p>Java</p>
-</div>
 
-<div style="text-align: center; margin: 10px;">
-    <img src="html.png" alt="HTML" width="50" height="50">
-    <p>HTML</p>
-</div>
+- 📫 How to reach me **jupallyyashwanth376@gmail.com**
 
-<div style="text-align: center; margin: 10px;">
-    <img src="css.png" alt="CSS" width="50" height="50">
-    <p>CSS</p>
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/yashwanth jupally" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashwanth jupally" height="30" width="40" /></a>
 
-<div style="text-align: center; margin: 10px;">
-    <img src="js.png" alt="JavaScript" width="50" height="50">
-    <p>JavaScript</p>
-</div>
+<a href="https://www.leetcode.com/yashwanthjupally21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashwanthjupally21" height="30" width="40" /></a>
+</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
 
-<div style="text-align: center; margin: 10px;">
-    <img src="python.png" alt="Python" width="50" height="50">
-    <p>Python</p>
-</div>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="40"/>Java </a> 
 
-<div style="text-align: center; margin: 10px;">
-    <img src="spring.png" alt="Spring Boot" width="50" height="50">
-    <p>Spring Boot</p>
-</div>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="40"/>HTML </a> 
 
-<div style="text-align: center; margin: 10px;">
-    <img src="sql.png" alt="MySQL" width="50" height="50">
-    <p>MySQL</p>
-</div>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="40"/>CSS </a> 
 
-</div>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-0.png" alt="python" width="60" height="40"/> JavaScript</a> </p>
+
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="60" height="40"/> Python</a> </p>
+    
+
 
 ## GitHub Stats
 
@@ -49,8 +42,6 @@
 ![Yashwanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
-## Contact Me
-- **LinkedIn**: [Your LinkedIn]([link-to-linkedin](https://www.linkedin.com/in/yashwanthjupally/))
 
 
 
