@@ -17,7 +17,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
-<div style="display: flex; justify-content: space-around;">
+<div style="display: block;">
 
 
 <a href="https://www.java.com" target="_blank"> 
