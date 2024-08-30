@@ -5,7 +5,7 @@
 
 <p align="left" background-color: black> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashwanthjupally" alt="yashwanthjupally" /></a> </p>
 
--🎓 Graduate of **Electrical and Electronics Engineering**
+- 🎓 Graduate of **Electrical and Electronics Engineering**
 
 - 👨‍💻 Can code in **Java, HTML, CSS, JavaScript, React.js**
 
