@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yashwanth Jupally</h1>
+<h1 align="center">Hi 👋, I'm Yashwanth</h1>
 <h3 align="center">Self-taught programmer with a profound dedication to software engineering</h3>
 
 <p align="left">  <img src="https://komarev.com/ghpvc/?username=yashwanthjupally&label=Profile%20views&color=0e75b6&style=flat" alt="yashwanthjupally" /> </p>
