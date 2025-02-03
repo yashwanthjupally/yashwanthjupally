@@ -11,6 +11,7 @@
 
 
 - 📫 How to reach me **jupallyyashwanth376@gmail.com**
+- 🌐 [Portfolio](https://yashwanthjupally.netlify.app/)
 
 
 <h3 align="left">Connect with me:</h3>
